@@ -1,0 +1,9 @@
+--- Energy Consumption Summary ---
+
+        Appliance  Power_Consumption_kWh  Usage_Hours_per_Day  Total_Energy_kWh_per_Day  Daily_Cost      Anomaly
+0              AC                    450                    8                     3.60       21.60       Normal
+1     Refrigerator                    300                   24                     7.20       43.20  High Usage
+2  Washing Machine                    150                    1                     0.15        0.90       Normal
+3          Heater                    500                    4                     2.00       12.00       Normal
+4            Oven                    200                    2                     0.40        2.40       Normal
+5              TV                    100                    5                     0.50        3.00       Normal

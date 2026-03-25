@@ -1,0 +1,12 @@
+timestamp,appliance,consumption,Appliance,Power_Consumption_kWh,Usage_Hours_per_Day
+2025-10-01 00:00,Machine,200.0,,,
+,,,Microwave,120.0,1.0
+,,,Laptop,60.0,6.0
+,,,Fan,80.0,10.0
+,,,Iron,1000.0,0.5
+,,,Dishwasher,1500.0,1.5
+,,,Geyser,2000.0,2.0
+,,,Vacuum Cleaner,1100.0,0.8
+,,,Toaster,800.0,0.4
+,,,Mixer Grinder,600.0,0.5
+,,,Air Purifier,500.0,4.0
